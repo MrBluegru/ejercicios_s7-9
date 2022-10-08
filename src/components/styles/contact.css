@@ -1,0 +1,20 @@
+.btonDelete {
+  color: red;
+  background-color: black;
+  border-radius: 5px;
+  margin-top: 15px;
+  padding: 5px;
+}
+
+.btnconnet {
+  background-color: rgb(84, 198, 86);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  padding: 5px;
+}
+.btnDisconnet {
+  background-color: rgb(219, 73, 68);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 5px;
+}
